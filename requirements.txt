@@ -1,0 +1,14 @@
+phidata
+python-dotenv
+packaging
+fastapi
+uvicorn
+typer
+pgvector
+psycopg[binary]
+psycopg2-binary
+pypdf
+duckduckgo-search
+sqlalchemy
+openai
+google-generativeai
